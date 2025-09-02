@@ -1,6 +1,6 @@
-# FauxComm (Python Prototype)
+# fauxcomm (Python Prototype)
 
-FauxComm is a minimal encrypted-communication **sandbox** with two programs:
+fauxcomm is a minimal encrypted-communication **sandbox** with two programs:
 - `fauxcommr` — receiver (server / responder)
 - `fauxcommt` — transmitter (client / initiator)
 
