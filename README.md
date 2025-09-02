@@ -46,7 +46,3 @@ Notes
 - Nonce exhaustion raises an error after 2^32 messages per run; restart session to re‑key long conversations.
 - Consider re‑handshaking periodically for additional forward secrecy.
 - Endpoints must be trusted; if a device is compromised, messages can be read before encryption or after decryption.
-
-## License
-
-MIT (prototype).
